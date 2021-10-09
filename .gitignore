@@ -133,3 +133,6 @@ dmypy.json
 
 # Add .env files
 .env
+
+# Add .json files
+.json

@@ -37,7 +37,7 @@ The rest of the libraries can be installed through pip commands if running Pytho
 ---
 ### Usage
 ***To review the analysis:***
-Begin in the Final_Project_Analysis github repository with the overall review found in the jupyter lab file titled, "Final_Project_Analysis".
+Begin in the [Final_Project_Analysis](https://github.com/jake-viss/UWFintech_Project1/tree/main/Final_Project_Analysis) github repository with the overall review found in the jupyter lab file titled, "Final_Project_Analysis".
 
 To drill down deeper into how the data was aquired, cleaned, and individually analyzed you can review each project members work file which is linked at the top of the "Final_Project_Analysis". 
 

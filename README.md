@@ -61,10 +61,14 @@ To drill down deeper into how the data was aquired, cleaned, and individually an
 |VTEX	|7/21/2021	|VETX|
 
 ---
+### Outcome 
+The data reflects that there is often a correlation between Twitter mentions and daily stock trading volumes. However, we did not find a correlation in Twitter mentions and price movement. 
+
+---
 ### Contributors
-Jacob Vissering - jake.vissering@gmail.com
-Viny Nair  
-Niki Van Dyck
+-Jacob Vissering - jake.vissering@gmail.com
+-Viny Nair  
+-Niki van Dyck - https://www.linkedin.com/in/nikivandyck/ 
 
 ### License
 MIT License

@@ -66,9 +66,9 @@ The data reflects that there is often a correlation between Twitter mentions and
 
 ---
 ### Contributors
--Jacob Vissering - jake.vissering@gmail.com
--Viny Nair  
--Niki van Dyck - https://www.linkedin.com/in/nikivandyck/ 
+- Jacob Vissering - jake.vissering@gmail.com
+- Viny Nair  
+- Niki van Dyck - https://www.linkedin.com/in/nikivandyck/ 
 
 ### License
 MIT License
